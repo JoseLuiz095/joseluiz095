@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joseluiz095/?hl=pt-br)
 
 
-![JoseLuiz095 GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseLuiz095&show_icons=true&theme=gruvbox&count_private=true)
+![JoseLuiz095 GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseLuiz095&show_icons=true&theme=gruvbox&count_private=true) 
 
 ## Tecnologias que eu uso no meu dia
 
